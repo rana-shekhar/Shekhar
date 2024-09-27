@@ -2,7 +2,7 @@
 
 ![Welcome](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
 
-I'm a **Flutter developer**, **web developer**, and B.Tech student at PIET, Panipat. I love building interactive mobile and web applications, working with technologies like **Flutter**, **HTML**, **CSS**, **JavaScript**, and **Firebase**.
+I'm a **Flutter developer**, **web developer**, and a recent **B.Tech graduate** from PIET, Panipat. I love building interactive mobile and web applications, working with technologies like **Flutter**, **HTML**, **CSS**, **JavaScript**, and **Firebase**.
 
 ## 🔧 Tech Stack
 Here are the technologies I work with:
