@@ -1,6 +1,6 @@
 # Hi, I'm Shekhar! 👋
 
-![Welcome](https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif)
+![Welcome](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
 
 I'm a **Flutter developer**, **web developer**, and B.Tech student at PIET, Panipat. I love building interactive mobile and web applications, working with technologies like **Flutter**, **HTML**, **CSS**, **JavaScript**, and **Firebase**.
 
@@ -8,18 +8,14 @@ I'm a **Flutter developer**, **web developer**, and B.Tech student at PIET, Pani
 Here are the technologies I work with:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/80/000000/flutter.png" alt="Flutter" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/80/000000/dart.png" alt="Dart" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/80/000000/html-5--v1.png" alt="HTML5" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/80/000000/css3.png" alt="CSS3" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/80/000000/javascript--v1.png" alt="JavaScript" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/80/000000/firebase.png" alt="Firebase" width="60" height="60"/>
+  <img src="https://img.icons8.com/color/80/000000/visual-studio-code-2019.png" alt="VS Code" width="60" height="60"/>
 </p>
-
-
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 💬 Let's Talk About
 - Building mobile applications with Flutter
@@ -28,4 +24,4 @@ Here are the technologies I work with:
 - Learning new technologies and frameworks
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shekhar-rana-3899441ab)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/shekhar-rana-3899441ab)
