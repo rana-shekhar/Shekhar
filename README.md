@@ -1,6 +1,8 @@
 # Hi, I'm Shekhar! 👋
 
-![Welcome](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
+<div align="center">
+  <iframe src="https://lottie.host/25ce6b26-b32f-48f5-b0a6-e6cab10731f6/K7g55e1IkZ.json" width="400" height="400" frameborder="0" allowfullscreen></iframe>
+</div>
 
 I'm a **Flutter developer**, **web developer**, and a recent **B.Tech graduate** from PIET, Panipat. I love building interactive mobile and web applications, working with technologies like **Flutter**, **HTML**, **CSS**, **JavaScript**, and **Firebase**.
 
