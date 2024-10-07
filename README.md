@@ -25,7 +25,7 @@ Here are the technologies I work with:
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/shekhar-rana-3899441ab)
-F)
+
 
 I'm a **Flutter developer**, **web developer**, and a recent **B.Tech graduate** from PIET, Panipat. I love building interactive mobile and web applications, working with technologies like **Flutter**, **HTML**, **CSS**, **JavaScript**, and **Firebase**.
 
